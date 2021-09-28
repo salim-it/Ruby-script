@@ -1,4 +1,4 @@
 # Ruby-script
 
 
-Some exerice in Ruby from "The Odin project"
+Some exerices in Ruby from "The Odin project"
